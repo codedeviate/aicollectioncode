@@ -1,4 +1,4 @@
-# Assembly / Aarch64 / MacOS
+# Assembly / Aarch64 / Linux
 
 ## Hello World
 
