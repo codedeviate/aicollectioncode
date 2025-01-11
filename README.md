@@ -1,9 +1,9 @@
 # AICollection Code
 Code and snippets found in the [AICollection](https://codedeviate.github.io/aicollection/aicollection.html)
 
-The basic structure of this code repository follows the same structure found in the AICollection. The code is organized by language, and then by topic. The code is also available in the [AICollection](https://codedeviate.github.io/aicollection/aicollection.html) website.
+The basic structure of this code repository follows the same structure found in the AICollection. The code is also available in the [AICollection](https://codedeviate.github.io/aicollection/aicollection.html) website.
 
-Some sections might nog have any code, but will have links to the AICollection website (in due time).
+Some sections might not have any code, but will have links to the AICollection website (in due time).
 
 ## Architectures
 
