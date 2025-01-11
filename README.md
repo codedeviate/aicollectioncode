@@ -1,116 +1,34 @@
 # AICollection Code
 Code and snippets found in the [AICollection](https://codedeviate.github.io/aicollection/aicollection.html)
 
-## Assembly
+The basic structure of this code repository follows the same structure found in the AICollection. The code is organized by language, and then by topic. The code is also available in the [AICollection](https://codedeviate.github.io/aicollection/aicollection.html) website.
 
-[Code](/Assembly)
-/
-[Document](https://codedeviate.github.io/aicollection/assembly.html)
+Some sections might nog have any code, but will have links to the AICollection website (in due time).
 
-## C
+## Architectures
 
-[Code](/C)
-/
-[Document](https://codedeviate.github.io/aicollection/c.html)
+## Communication
 
-## C++
+## Docker
 
-[Code](/Cpp)
-/
-[Document](https://codedeviate.github.io/aicollection/cplusplus.html)
+## Git
 
-## C#
+## GitHub
 
-[Code](/Csharp)
-/
-[Document](https://codedeviate.github.io/aicollection/csharp.html)
+## Languages
 
-## CSS
+## Operating Systems
 
-[Code](/CSS)
-/
-[Document](https://codedeviate.github.io/aicollection/css.html)
-
-## Fortran
-
-[Code](/Fortran)
-/
-[Document](https://codedeviate.github.io/aicollection/fortran.html)
-
-## Go
-
-[Code](/Go)
-/
-[Document](https://codedeviate.github.io/aicollection/go.html)
-
-## HTML
-
-[Code](/HTML)
-/
-[Document](https://codedeviate.github.io/aicollection/html.html)
-
-## Java
-
-[Code](/Java)
-/
-[Document](https://codedeviate.github.io/aicollection/java.html)
-
-## Javascript
-
-[Code](/Javascript)
-/
-[Document](https://codedeviate.github.io/aicollection/javascript.html)
-
-## Markdown
-
-[Code](/Markdown)
-/
-[Document](https://codedeviate.github.io/aicollection/markdown.html)
-
-## Perl
-
-[Code](/Perl)
-/
-[Document](https://codedeviate.github.io/aicollection/perl.html)
-
-## PHP
-
-[Code](/PHP)
-/
-[Document](https://codedeviate.github.io/aicollection/php.html)
-
-## Python
-
-[Code](/Python)
-/
-[Document](https://codedeviate.github.io/aicollection/python.html)
-
-## Ruby
-
-[Code](/Ruby)
-/
-[Document](https://codedeviate.github.io/aicollection/ruby.html)
-
-## Rust
-
-[Code](/Rust)
-/
-[Document](https://codedeviate.github.io/aicollection/rust.html)
+## Programming
 
 ## Shell
 
-[Code](/Shell)
-/
-[Document](https://codedeviate.github.io/aicollection/shell.html)
+## Tools and IDEs
 
-## SQL
+## Useful Commands
 
-[Code](/SQL)
-/
-[Document](https://codedeviate.github.io/aicollection/sql.html)
+## Security
 
-## Zig
+## Miscellanious Stories
 
-[Code](/Zig)
-/
-[Document](https://codedeviate.github.io/aicollection/zig.html)
+## The Dark Side
