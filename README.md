@@ -1,5 +1,5 @@
 # AICollection Code
-Code and snippets found in the AICollection
+Code and snippets found in the [AICollection](https://codedeviate.github.io/aicollection/aicollection.html)
 
 ## Assembly
 

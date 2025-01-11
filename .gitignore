@@ -1,1 +1,5 @@
 .ropeproject
+go.mod
+go.sum
+*.exe
+.idea
